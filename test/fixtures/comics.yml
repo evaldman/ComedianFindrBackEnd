@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  comedy_genre: one
+  name: MyString
+  image: MyString
+  bio: MyString
+  video: MyString
+  tour_date: MyString
+
+two:
+  comedy_genre: two
+  name: MyString
+  image: MyString
+  bio: MyString
+  video: MyString
+  tour_date: MyString

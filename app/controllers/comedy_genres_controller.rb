@@ -1,0 +1,2 @@
+class ComedyGenresController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class ComedyGenre < ApplicationRecord
+end
