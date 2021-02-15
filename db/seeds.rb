@@ -121,7 +121,7 @@ comedy_genre: topical)
 
 kaufman = Comic.create(name: "Andy Kaufman",
 image: "https://upload.wikimedia.org/wikipedia/en/9/9a/Akaufman1.jpg",
-bio: "Andy Kaufman was an American comedian, wrestler, and performance artist. He has sometimes been called an "anti-comedian".",
+bio: "Andy Kaufman was an American comedian, wrestler, and performance artist. He has sometimes been called an 'anti-comedian'.",
 video: "https://www.youtube.com/embed/Yxp23Gkvn9g",
 tour_date: "none",
 comedy_genre: anti)
