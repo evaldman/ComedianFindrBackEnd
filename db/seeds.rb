@@ -31,7 +31,7 @@ comedy_genre: surreal)
 silverman = Comic.create(name:"Sarah Silverman", 
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sarah_Silverman_DNC_July_2016.jpg/220px-Sarah_Silverman_DNC_July_2016.jpg", 
 bio: "an American stand-up comedian whose comedy addresses social taboos and controversial topics, such as racism, sexism, politics, and religion, sometimes having her comic character endorse them in a satirical or deadpan fashion.", 
-video: "https://www.youtube.com/embed/2aRj7RsJxV0" , 
+video: "https://www.youtube.com/embed/2aRj7RsJxV0", 
 tour_date: "none",
 comedy_genre: blue)
 
@@ -105,7 +105,6 @@ video: "https://www.youtube.com/embed/xp2KsaI4uKY",
 tour_date: "none",
 comedy_genre: blue)
 
-
 andre = Comic.create(name: "Eric Andre",
 image: "https://static.wikia.nocookie.net/disenchantment/images/2/22/Eric_Andre.jpg/revision/latest/top-crop/width/360/height/450?cb=20171107140703",
 bio: "Eric Andre is an American comedian, actor, television host, writer and producer. He is best known as the creator and host of The Eric Andre Show.",
@@ -128,7 +127,7 @@ tour_date: "none",
 comedy_genre: anti)
 
 mckinnon = Comic.create(name: "Kate McKinnon",
-image: "https://upload.wikimedia.org/wikipedia/en/9/9a/Akaufman1.jpghttps://upload.wikimedia.org/wikipedia/commons/a/aa/Kate_McKinnon_in_2018.jpg",
+image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Kate_McKinnon_in_2018.jpg",
 bio: "Kate McKinnon is an American actress, comedian, and writer. She is known for her character work and celebrity impressions on Saturday Night Live.",
 video: "https://www.youtube.com/embed/2kQxVwYwrME",
 tour_date: "none",
@@ -142,8 +141,8 @@ tour_date: "none",
 comedy_genre: comedy_music)
 
 burr = Comic.create(name: "Bill Burr",
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bill_Burr_by_Gage_Skidmore.jpg/440px-Bill_Burr_by_Gage_Skidmore.jpgZ",
-bio: "Bill Burr is an American stand-up comedian, actor and podcaster. He created and stars in the Netflix animated sitcom F Is for Family ",
+image: "https://m.media-amazon.com/images/M/MV5BMTQwNDgwODg3NV5BMl5BanBnXkFtZTcwMTY5OTM3MQ@@._V1_UY1200_CR129,0,630,1200_AL_.jpg",
+bio: "Bill Burr is an American stand-up comedian, actor and podcaster. He created and stars in the Netflix animated sitcom F Is for Family",
 video: "https://www.youtube.com/embed/PGuqnE35cCg",
 tour_date: "none",
 comedy_genre: topical)
