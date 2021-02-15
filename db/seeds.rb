@@ -147,6 +147,13 @@ video: "https://www.youtube.com/embed/PGuqnE35cCg",
 tour_date: "none",
 comedy_genre: topical)
 
+weird_al = Comic.create(name: "Weird Al Yankovic",
+image: "http://www.gstatic.com/tv/thumb/persons/105521/105521_v9_bb.jpg",
+bio: "Weird Al Yankovic is an American musician who is known for humorous songs that make light of pop culture and often parody songs by contemporary acts",
+video: "https://www.youtube.com/embed/t2mU6USTBRE",
+tour_date: "none",
+comedy_genre: spoof)
+
 
 
 ### USERS ###
