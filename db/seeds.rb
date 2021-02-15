@@ -61,7 +61,7 @@ image: "https://cdn.vox-cdn.com/thumbor/kwPWOVUQq2twaYQxoj7QFtY1290=/1400x1400/f
 bio: "Roy Wood Jr. is an American humorist, comedian, DJ, actor, producer, and writer. He has served as a correspondent for The Daily Show on Comedy Central since 2015.", 
 video:  "https://www.youtube.com/embed/mThkzqbcpU8", 
 tour_date: "none",
-Comedy_genre: topical)
+comedy_genre: topical)
 
 demetri_martin = Comic.create(name: "Demetri Martin", 
 image: "https://m.media-amazon.com/images/M/MV5BMjA3Nzg5MzM2Nl5BMl5BanBnXkFtZTcwODYzOTAzMg@@._V1_UY1200_CR165,0,630,1200_AL_.jpg",
