@@ -10,4 +10,13 @@ class ReviewsController < ApplicationController
         render json: review
     end
 
+    def create
+        
+    end
+
+    def delete
+        review = Review.find(params[:id])
+        review.destroy
+    end
+
 end
