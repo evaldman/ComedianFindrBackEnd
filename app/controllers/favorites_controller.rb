@@ -12,7 +12,9 @@ class FavoritesController < ApplicationController
 
     def create
         favorite =  Favorite.create(favorite_params)
+        if favorite.id
         render json: favorite
+        end
     end
 
     def destroy

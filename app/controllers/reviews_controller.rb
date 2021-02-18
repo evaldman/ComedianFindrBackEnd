@@ -12,7 +12,9 @@ class ReviewsController < ApplicationController
 
     def create
         review = Review.create(review_params)
+        if review.id
         render json: review
+        end
     end
 
     def destroy
