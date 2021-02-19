@@ -165,7 +165,7 @@ brady = Comic.create(name: "Wayne Brady",
 image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Wayne_Brady_2015.jpg",
 bio: "Wayne Brady is an American actor, singer, comedian, game show host, and television personality. He is a regular on Whose Line Is It Anyway?",
 video: "https://www.youtube.com/embed/EPkmlhg8r3k",
-tour_date: "",
+tour_date: "8/12/21 - The Wilbur, Boston",
 comedy_genre: comedy_music)
 
 peele = Comic.create(name: "Jordan Peele",
