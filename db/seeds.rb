@@ -159,7 +159,7 @@ comedy_genre: spoof)
 ### USERS ###
 
 user1 = User.create(username: "user1")
-user2 = User.create(username: "comedyFAN")
+# user2 = User.create(username: "comedyFAN")
 
 ### REVIEWS ###
 
@@ -168,7 +168,7 @@ review2 = Review.create(user: user1, comic: silverman, content: "So funny!")
 review3 = Review.create(user: user1, comic: mulaney, content: "HAHAHAHAHA")
 review4 = Review.create(user: user1, comic: gadsby, content: "Thought provoking and hilarious!")
 review5 = Review.create(user: user1, comic: chappelle, content: "Never gets old!")
-review6 = Review.create(user: user2, comic: chappelle, content: "I watched his show all the time!")
+# review6 = Review.create(user: user2, comic: chappelle, content: "I watched his show all the time!")
 
 
 ### FAVORITES ###
