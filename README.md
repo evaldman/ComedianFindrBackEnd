@@ -12,7 +12,7 @@ Installation:
 - "bundle install" if necessary 
 - Open ComedianFindr Backend
 - Run "rails s" in the terminal 
-- Open the ComedianFindr Frontend
+- [Open the ComedianFindr Frontend](https://github.com/evaldman/ComedianFindrFrontEnd)
 - Run "open index.html" 
 
 Navigating the app:
