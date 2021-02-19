@@ -25,42 +25,42 @@ image:"http://www.gstatic.com/tv/thumb/persons/15113/15113_v9_bb.jpg",
 bio: "Dave Chappelle is an American stand-up comedian. With his incisive observations, 
 he has been described as 'poetically unfiltered' and 'sociopolitically introspective,' with an ability to illuminate and interrogate agonizing and poignant topics.", 
 video: "https://www.youtube.com/embed/zQESCXgp0Nk", 
-tour_date: "none", 
+tour_date: "5/11/21 - Brody Theater: Portland", 
 comedy_genre: surreal)
 
 silverman = Comic.create(name:"Sarah Silverman", 
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sarah_Silverman_DNC_July_2016.jpg/220px-Sarah_Silverman_DNC_July_2016.jpg", 
 bio: "Sarah Silverman is an American stand-up comedian whose comedy addresses social taboos and controversial topics, such as racism, sexism, politics, and religion, sometimes having her comic character endorse them in a satirical or deadpan fashion.", 
 video: "https://www.youtube.com/embed/2aRj7RsJxV0", 
-tour_date: "none",
+tour_date: "3/18/21 - Acme Comedy Company: Minneapolis",
 comedy_genre: blue)
 
 mulaney = Comic.create(name: "John Mulaney", 
 image: "https://upload.wikimedia.org/wikipedia/commons/2/2f/John_Mulaney_PaleyFest_crop.jpg",
 bio: "John Mulaney an American stand-up comedian, actor, writer, and producer. He is best known for his work as a writer on Saturday Night Live and observational, surrealist stand-up specials.", 
 video: "https://www.youtube.com/embed/1MBjJMMKASQ", 
-tour_date: "none",
+tour_date: "4/7/21 - Castle Theater: Kenner",
 comedy_genre: observational)
 
 gadsby = Comic.create(name: "Hannah Gadsby", 
 image: "https://static01.nyt.com/images/2020/05/26/arts/26hannah-gadsby-lead/26hannah-gadsby-lead-mediumSquareAt3X-v2.jpg",
 bio: "Hannah Gadsby is an Australian comedian, writer, actress and television presenter. She rose to prominence after winning the national final of the Raw Comedy competition for new comedians in 2006.", 
 video: "https://www.youtube.com/embed/yNKOI-75E7A", 
-tour_date: "none",
+tour_date: "8/14/21 - Comedy Zone: Jacksonville",
 comedy_genre: observational)
 
 seinfeld = Comic.create(name: "Jerry Seinfeld", 
 image: "https://m.media-amazon.com/images/M/MV5BMTYxMDkwMjM5NV5BMl5BanBnXkFtZTcwMzUxMTgxNw@@._V1_UY1200_CR83,0,630,1200_AL_.jpg",
 bio: "Jerry Seinfeld is an American comedian best known for his observational humor and playing a semi-fictionalized version of himself in the sitcom Seinfeld", 
 video: "https://www.youtube.com/embed/FA4kxlObK9Q", 
-tour_date: "none",
+tour_date: "6/4/21 - Greenwich Village Comedy Club: New York City",
 comedy_genre: observational)
 
 wood_jr = Comic.create(name: "Roy Wood Jr.", 
 image: "https://cdn.vox-cdn.com/thumbor/kwPWOVUQq2twaYQxoj7QFtY1290=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19874483/Roy2020.jpg",
 bio: "Roy Wood Jr. is an American humorist, comedian, DJ, actor, producer, and writer. He has served as a correspondent for The Daily Show on Comedy Central since 2015.", 
 video:  "https://www.youtube.com/embed/mThkzqbcpU8", 
-tour_date: "none",
+tour_date: "9/15/21 - House of Comedy: Phoenix",
 comedy_genre: topical)
 
 demetri_martin = Comic.create(name: "Demetri Martin", 
@@ -81,7 +81,7 @@ kroll = Comic.create(name: "Nick Kroll",
 image: "https://media.gq.com/photos/59b2ade979b42439531347ac/master/w_2052,h_3000,c_limit/Nick-Kroll-justin-bettman-04.jpg",
 bio: "Nick Kroll is an American comedian known for creating and starring in the Comedy Central series Kroll Show, The Oh, Hello Show, the FX comedy series The League, and co-creating in the Netflix series Big Mouth", 
 video: "https://www.youtube.com/embed/McF3Y47AIys", 
-tour_date: "none",
+tour_date: "5/22/21 - Jet City Improv: Seattle",
 comedy_genre: character)
 
 izzard = Comic.create(name: "Eddie Izzard",
@@ -102,7 +102,7 @@ hannibal = Comic.create(name: "Hannibal Buress",
 image: "https://www.rollingstone.com/wp-content/uploads/2019/12/Hannibal.jpg",
 bio: "Hannibal Buress is an American comedian, actor, writer, and producer best known for co-starring on the Eric Andre Show and Broad City.",
 video: "https://www.youtube.com/embed/xp2KsaI4uKY",
-tour_date: "none",
+tour_date: "7/11/21 - SAK Comedy Club, Orlando",
 comedy_genre: blue)
 
 andre = Comic.create(name: "Eric Andre",
@@ -137,7 +137,7 @@ burnham = Comic.create(name: "Bo Burnham",
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bo_Burnham_Montaclair_Film_Festival_%28cropped%29.jpg/440px-Bo_Burnham_Montaclair_Film_Festival_%28cropped%29.jpg",
 bio: "Bo Burnham is an American comedian, musician, actor, film director, screenwriter, and poet. He began his performance career as a YouTuber in March 2006",
 video: "https://www.youtube.com/embed/rYy0o-J0x20",
-tour_date: "none",
+tour_date: "11/5/21 - Sully’s Comedy Bar, Parkville",
 comedy_genre: comedy_music)
 
 burr = Comic.create(name: "Bill Burr",
@@ -165,7 +165,7 @@ brady = Comic.create(name: "Wayne Brady",
 image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Wayne_Brady_2015.jpg",
 bio: "Wayne Brady is an American actor, singer, comedian, game show host, and television personality. He is a regular on Whose Line Is It Anyway?",
 video: "https://www.youtube.com/embed/EPkmlhg8r3k",
-tour_date: "none",
+tour_date: "",
 comedy_genre: comedy_music)
 
 peele = Comic.create(name: "Jordan Peele",
